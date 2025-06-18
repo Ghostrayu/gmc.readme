@@ -9,8 +9,8 @@ A private institution for decentralized finance, offering educational resources,
 Good Money Collective is a comprehensive platform focused on decentralized finance, providing valuable information about cryptocurrency projects, regular newsletters, and financial resources alongside a merchandise store.
 
 The project consists of two main components:
-1. **Main Platform**: Built with React, TypeScript, and Vite
-2. **Landing Page**: Built with Rust and Yew, compiled to WebAssembly
+1. **Main Platform**: Built with React, TypeScript, and Vite (https://goodmoneycollective.com)
+2. **Landing Page**: Built with Rust and Yew, compiled to WebAssembly (https://landing.goodmoneycollective.com)
 
 ## Key Features
 
