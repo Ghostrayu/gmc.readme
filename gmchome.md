@@ -1,56 +1,56 @@
-# Good Money Collective
+# GOOD MONEY COLLECTIVE
 
-A private institution for decentralized finance. This project is built using React, Rust, TypeScript, and Vite.
+A PRIVATE INSTITUTION FOR DECENTRALIZED FINANCE. THIS PROJECT IS BUILT USING REACT, RUST, TYPESCRIPT, AND VITE.
 
-![Good Money Collective Logo](https://goodmoneycollective.com/images/logo.png)
+![GOOD MONEY COLLECTIVE LOGO](https://goodmoneycollective.com/images/logo.png)
 
-## Overview
+## OVERVIEW
 
-Good Money Collective is a comprehensive platform focused on decentralized finance, offering valuable information about cryptocurrency projects, newsletters, and financial resources with a merchandise store.
+GOOD MONEY COLLECTIVE IS A COMPREHENSIVE PLATFORM FOCUSED ON DECENTRALIZED FINANCE, OFFERING VALUABLE INFORMATION ABOUT CRYPTOCURRENCY PROJECTS, NEWSLETTERS, AND FINANCIAL RESOURCES WITH A MERCHANDISE STORE.
 
-## Key Features & Offerings
+## KEY FEATURES & OFFERINGS
 
-- Educational resources on blockchain technologies and cryptocurrency projects
-- Newsletter with regular updates and insights
-- Merchandise store with crypto-themed products
-- Xaman (XUMM) wallet integration for XRP payments
-- Interactive UI with responsive design for all devices
-- Community engagement through comments and social sharing
-- Development roadmap and resource library
+- EDUCATIONAL RESOURCES ON BLOCKCHAIN TECHNOLOGIES AND CRYPTOCURRENCY PROJECTS
+- NEWSLETTER WITH REGULAR UPDATES AND INSIGHTS
+- MERCHANDISE STORE WITH CRYPTO-THEMED PRODUCTS
+- XAMAN (XUMM) WALLET INTEGRATION FOR XRP PAYMENTS
+- INTERACTIVE UI WITH RESPONSIVE DESIGN FOR ALL DEVICES
+- COMMUNITY ENGAGEMENT THROUGH COMMENTS AND SOCIAL SHARING
+- DEVELOPMENT ROADMAP AND RESOURCE LIBRARY
 
-## Merchandise Store
+## MERCHANDISE STORE
 
-The Good Money Collective features a merchandise store with branded products including apparel and accessories. The store includes a shopping cart system, secure checkout with XRP payment via Xaman wallet, and clear shipping and return policies.
+THE GOOD MONEY COLLECTIVE FEATURES A MERCHANDISE STORE WITH BRANDED PRODUCTS INCLUDING APPAREL AND ACCESSORIES. THE STORE INCLUDES A SHOPPING CART SYSTEM, SECURE CHECKOUT WITH XRP PAYMENT VIA XAMAN WALLET, AND CLEAR SHIPPING AND RETURN POLICIES.
 
-## Platform Sections
+## PLATFORM SECTIONS
 
-The Good Money Collective platform includes:
+THE GOOD MONEY COLLECTIVE PLATFORM INCLUDES:
 
-- **Home**: Featured articles, newsletter subscription, and supported blockchain ecosystems
-- **Articles**: In-depth content on projects like Pulsara, Coreum, Xaman, Xahau, and Evernode
-- **Newsletters**: Regular updates organized by date and topic
-- **Development**: Project roadmap and platform improvements
-- **About & Contact**: Information about the project and contact options
+- **HOME**: FEATURED ARTICLES, NEWSLETTER SUBSCRIPTION, AND SUPPORTED BLOCKCHAIN ECOSYSTEMS
+- **ARTICLES**: IN-DEPTH CONTENT ON PROJECTS LIKE PULSARA, COREUM, XAMAN, XAHAU, AND EVERNODE
+- **NEWSLETTERS**: REGULAR UPDATES ORGANIZED BY DATE AND TOPIC
+- **DEVELOPMENT**: PROJECT ROADMAP AND PLATFORM IMPROVEMENTS
+- **ABOUT & CONTACT**: INFORMATION ABOUT THE PROJECT AND CONTACT OPTIONS
 
-All sections feature responsive design, social sharing functionality, and consistent branding.
+ALL SECTIONS FEATURE RESPONSIVE DESIGN, SOCIAL SHARING FUNCTIONALITY, AND CONSISTENT BRANDING.
 
-## Cryptocurrency Payments
+## CRYPTOCURRENCY PAYMENTS
 
-The platform integrates with the Xaman (formerly XUMM) wallet for XRP payments:
+THE PLATFORM INTEGRATES WITH THE XAMAN (FORMERLY XUMM) WALLET FOR XRP PAYMENTS:
 
-- Secure QR code payment system with XRP URI format
-- Transaction memo generation for order tracking
-- No storage of private keys on our servers
-- Direct XUMM API integration for secure processing
+- SECURE QR CODE PAYMENT SYSTEM WITH XRP URI FORMAT
+- TRANSACTION MEMO GENERATION FOR ORDER TRACKING
+- NO STORAGE OF PRIVATE KEYS ON OUR SERVERS
+- DIRECT XUMM API INTEGRATION FOR SECURE PROCESSING
 
-## Community
+## COMMUNITY
 
-We welcome feedback through our contact page, social media, and newsletter. Join our community to help build a more accessible financial ecosystem.
+WE WELCOME FEEDBACK THROUGH OUR CONTACT PAGE, SOCIAL MEDIA, AND NEWSLETTER. JOIN OUR COMMUNITY TO HELP BUILD A MORE ACCESSIBLE FINANCIAL ECOSYSTEM.
 
-## License
+## LICENSE
 
-This project is proprietary. All rights reserved.
+THIS PROJECT IS PROPRIETARY. ALL RIGHTS RESERVED.
 
 ---
 
-© 2025 Good Money Collective. All rights reserved.
+© 2025 GOOD MONEY COLLECTIVE. ALL RIGHTS RESERVED.
