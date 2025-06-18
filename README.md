@@ -52,17 +52,13 @@ The platform integrates with the Xaman (formerly XUMM) wallet for XRP payments:
 - Transaction memo generation for order tracking
 - Direct XUMM API integration for secure processing
 
-## Getting Started
-
-[Instructions for setting up the development environment, installing dependencies, and running the project locally will be added here]
-
 ## Contributing
 
 [Guidelines for contributing to the project will be added here]
 
 ## License
 
-This project is proprietary. All rights reserved.
+This project is proprietary.
 
 ---
 
