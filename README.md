@@ -1,65 +1,66 @@
-# Good Money Collective
+# GOOD MONEY COLLECTIVE
 
-A private institution for decentralized finance, offering educational resources, newsletters, and merchandise with cryptocurrency payment integration.
+A PRIVATE INSTITUTION FOR DECENTRALIZED FINANCE.
 
-![Good Money Collective Logo](https://goodmoneycollective.com/images/logo.png)
+![GOOD MONEY COLLECTIVE LOGO](https://goodmoneycollective.com/images/logo.png)
 
-## Project Overview
+## PROJECT OVERVIEW
 
-Good Money Collective is a comprehensive platform focused on decentralized finance, providing valuable information about cryptocurrency projects, regular newsletters, and financial resources alongside a merchandise store.
+GOOD MONEY COLLECTIVE IS A COMPREHENSIVE PLATFORM FOCUSED ON DECENTRALIZED FINANCE, PROVIDING VALUABLE INFORMATION ABOUT CRYPTOCURRENCY PROJECTS, REGULAR NEWSLETTERS, AND FINANCIAL RESOURCES ALONGSIDE A MERCHANDISE STORE.
 
-The project consists of two main components:
-1. **Main Platform**: Built with React, TypeScript, and Vite (https://goodmoneycollective.com)
-2. **Landing Page**: Built with Rust and Yew, compiled to WebAssembly (https://landing.goodmoneycollective.com)
+THE PROJECT CONSISTS OF TWO MAIN COMPONENTS:
+1. **MAIN PLATFORM**: BUILT WITH REACT, TYPESCRIPT, AND VITE (HTTPS://GOODMONEYCOLLECTIVE.COM)
+2. **LANDING PAGE**: BUILT WITH RUST AND YEW, COMPILED TO WEBASSEMBLY (HTTPS://LANDING.GOODMONEYCOLLECTIVE.COM)
 
-## Key Features
+## KEY FEATURES
 
-- Educational resources on blockchain technologies and cryptocurrency projects
-- Newsletter with regular updates and insights
-- Merchandise store with crypto-themed products
-- Xaman (formerly XUMM) wallet integration for XRP payments
-- Interactive UI with responsive design for all devices
-- Community engagement through comments and social sharing
-- Development roadmap and resource library
+- EDUCATIONAL RESOURCES ON BLOCKCHAIN TECHNOLOGIES AND CRYPTOCURRENCY PROJECTS
+- NEWSLETTER WITH REGULAR UPDATES AND INSIGHTS
+- MERCHANDISE STORE WITH CRYPTO-THEMED PRODUCTS
+- XAMAN (FORMERLY XUMM) WALLET INTEGRATION FOR XRP PAYMENTS
+- INTERACTIVE UI WITH RESPONSIVE DESIGN FOR ALL DEVICES
+- COMMUNITY ENGAGEMENT THROUGH COMMENTS AND SOCIAL SHARING
+- DEVELOPMENT ROADMAP AND RESOURCE LIBRARY
 
-## Tech Stack
+## TECH STACK
 
-### Main Platform
-- **Frontend**: React, TypeScript
-- **Build Tool**: Vite
-- **Styling**: Custom CSS with responsive design
+### MAIN PLATFORM
+- **FRONTEND**: REACT, TYPESCRIPT
+- **BUILD TOOL**: VITE
+- **STYLING**: CUSTOM CSS WITH RESPONSIVE DESIGN
 
-### Landing Page
-- **Frontend Framework**: [Yew](https://yew.rs/) - A modern Rust framework for WebAssembly
-- **Language**: [Rust](https://www.rust-lang.org/)
-- **WebAssembly**: Compiled Rust code running in the browser
-- **Build Tool**: [Trunk](https://trunkrs.dev/) - WASM web application bundler
-- **Deployment**: [Netlify](https://www.netlify.com/)
+### LANDING PAGE
+- **FRONTEND FRAMEWORK**: [YEW](https://yew.rs/) - A MODERN RUST FRAMEWORK FOR WEBASSEMBLY
+- **LANGUAGE**: [RUST](https://www.rust-lang.org/)
+- **WEBASSEMBLY**: COMPILED RUST CODE RUNNING IN THE BROWSER
+- **BUILD TOOL**: [TRUNK](https://trunkrs.dev/) - WASM WEB APPLICATION BUNDLER
+- **DEPLOYMENT**: [NETLIFY](https://www.netlify.com/)
 
-## Platform Sections
+## PLATFORM SECTIONS
 
-- **Home**: Featured articles, newsletter subscription, and supported blockchain ecosystems
-- **Articles**: In-depth content on projects like Pulsara, Coreum, Xaman, Xahau, and Evernode
-- **Newsletters**: Regular updates organized by date and topic
-- **Development**: Project roadmap and platform improvements
-- **About & Contact**: Information about the project and contact options
-- **Merchandise Store**: Branded products with XRP payment integration
+- **HOME**: FEATURED ARTICLES, NEWSLETTER SUBSCRIPTION, AND SUPPORTED BLOCKCHAIN ECOSYSTEMS
+- **ARTICLES**: IN-DEPTH CONTENT ON PROJECTS LIKE PULSARA, COREUM, XAMAN, XAHAU, AND EVERNODE
+- **NEWSLETTERS**: REGULAR UPDATES ORGANIZED BY DATE AND TOPIC
+- **DEVELOPMENT**: PROJECT ROADMAP AND PLATFORM IMPROVEMENTS
+- **DEVELOPERS HUB**: COMPREHENSIVE RESOURCES, API DOCUMENTATION, AND TOOLS FOR DEVELOPERS
+- **ABOUT & CONTACT**: INFORMATION ABOUT THE PROJECT AND CONTACT OPTIONS
+- **MERCHANDISE STORE**: BRANDED PRODUCTS WITH XRP PAYMENT INTEGRATION
 
-## Cryptocurrency Payments
+## CRYPTOCURRENCY PAYMENTS
 
-The platform integrates with the Xaman (formerly XUMM) wallet for XRP payments:
-- Secure QR code payment system with XRP URI format
-- Transaction memo generation for order tracking
-- Direct XUMM API integration for secure processing
+THE PLATFORM INTEGRATES WITH THE XAMAN (FORMERLY XUMM) WALLET FOR XRP PAYMENTS:
+- SECURE QR CODE PAYMENT SYSTEM WITH XRP URI FORMAT
+- TRANSACTION MEMO GENERATION FOR ORDER TRACKING
+- DIRECT XUMM API INTEGRATION FOR SECURE PROCESSING
 
-## Contributing
+## CONTRIBUTING
 
-[Guidelines for contributing to the project will be added here]
+[GUIDELINES FOR CONTRIBUTING TO THE PROJECT WILL BE ADDED HERE]
 
-## License
+## LICENSE
 
-This project is proprietary.
+THIS PROJECT IS PROPRIETARY.
 
 ---
 
-© 2025 Good Money Collective. All rights reserved.
+© 2025 GOOD MONEY COLLECTIVE. ALL RIGHTS RESERVED.
